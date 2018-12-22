@@ -17,7 +17,7 @@ https://pastebin.com/wLqF9piS
 * Drop compiled into addons/sourcemod/plugins
 
 ## Console Commands
-```bash2 stats```
+```bash2_stats```
 
 ## logs
 logs are saved to addons/sourcemod/logs
