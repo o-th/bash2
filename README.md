@@ -4,7 +4,7 @@ Anticheat (from mevs pastebin) for strafe-related cheats & for both CS:GO & CS:S
 ## Source
 https://github.com/natejd/bash2
 
-## How to install
+## How to compile
 * [dHooks](https://forums.alliedmods.net/showthread.php?t=180114) 
 * [smlib](https://github.com/splewis/smlib)
 
