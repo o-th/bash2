@@ -1,4 +1,4 @@
-# Bash2.0 Mev Edition
+# Bash2.0-Mev
 Anticheat (from mevs pastebin) for strafe-related cheats & for both CS:GO & CS:S
 
 ## Notes
