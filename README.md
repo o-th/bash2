@@ -9,6 +9,6 @@ https://pastebin.com/wLqF9piS
 * Download [dHooks](https://forums.alliedmods.net/showthread.php?t=180114)
   * [Compiled version](https://github.com/isteinbrook/bash2/blob/master/bash2.smx) uses [2.2.0](http://users.alliedmods.net/~drifter/builds/dhooks/2.2/dhooks-2.2.0-hg126-linux.tar.gz)
 
-* [smlib](https://github.com/splewis/smlib)
+* Download [smlib](https://github.com/splewis/smlib)
 
 Compile & drop in sourcemod/plugins folder, ezpz.
