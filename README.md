@@ -1,6 +1,9 @@
 # Bash2.0 Mev Edition
 Anticheat (from mevs pastebin) for strafe-related cheats & for both CS:GO & CS:S
 
+## Notes
+You can either compile the script your self, the files are listed below and are uploaded above in the addons folder, or download the [compiled version here.](https://github.com/isteinbrook/bash2/blob/master/bash2.smx)
+
 ## Source
 https://pastebin.com/wLqF9piS
 
