@@ -1,5 +1,5 @@
 # Bash2.0 Mev Edition
-Anticheat (from mevs pastebin) for strafe-related cheats & for both CS:GO & CS:S with changes from Bonner
+Anticheat (from mevs pastebin) for strafe-related cheats & for both CS:GO & CS:S
 
 ## Source
 https://pastebin.com/wLqF9piS
@@ -11,7 +11,7 @@ https://pastebin.com/wLqF9piS
 * Download [smlib](https://github.com/splewis/smlib)
 
 ## Compile
-* Drag [bash2.sp](https://github.com/isteinbrook/bash2/blob/master/bash2.sp) onto addons/sourcemod/scripting/spcomp
+* Drag [bash2.sp](https://github.com/isteinbrook/bash2/blob/master/bash2.sp) onto addons/sourcemod/scripting/spcomp.exe
 
 ## Install
 * Drop compiled into addons/sourcemod/plugins
