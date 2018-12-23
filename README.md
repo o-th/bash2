@@ -1,5 +1,5 @@
 # Bash2.0-Mev
-Anticheat (from mevs pastebin) for strafe-related cheats that works with [Shavit's Bhop Timer](https://github.com/shavitush/bhoptimer)
+Anticheat (from mevs pastebin) for strafe-related cheats. Works with [Shavit's Bhop Timer](https://github.com/shavitush/bhoptimer)
 
 ## Notes
 You can either compile the script your self, the files are listed below and are uploaded above in the addons folder, or download the [compiled version here.](https://github.com/isteinbrook/bash2/blob/master/bash2.smx)
