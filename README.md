@@ -19,7 +19,11 @@ https://pastebin.com/wLqF9piS
 * Drag [bash2.sp](https://github.com/isteinbrook/bash2/blob/master/bash2.sp) onto addons/sourcemod/scripting/spcomp.exe
 
 ## Install
+Windows:
 * Drop compiled into addons/sourcemod/plugins
+
+Linux:
+* [tut here](https://wiki.alliedmods.net/Compiling_SourceMod_Plugins)
 
 ## Console Commands
 ```bash2_stats```
