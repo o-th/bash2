@@ -16,14 +16,15 @@ https://pastebin.com/wLqF9piS
 * Download [sourcemod](https://www.sourcemod.net/downloads.php?branch=stable)
 * Download [metamod](http://sourcemm.net/downloads.php?branch=stable)
 * Follow some tutorial on installing sourcemod. Like [this(text)](https://wiki.alliedmods.net/Installing_SourceMod) or [this(video)](https://www.youtube.com/watch?v=7tz7XCvg75s)
-* Drag [bash2.sp](https://github.com/isteinbrook/bash2/blob/master/bash2.sp) onto addons/sourcemod/scripting/spcomp.exe
 
-## Install
 Windows:
-* Drop compiled into addons/sourcemod/plugins
+* Drag [bash2.sp](https://github.com/isteinbrook/bash2/blob/master/bash2.sp) onto addons/sourcemod/scripting/spcomp.exe
 
 Linux:
 * [tut here](https://wiki.alliedmods.net/Compiling_SourceMod_Plugins)
+
+## Install
+* Drop compiled bash2.smx into addons/sourcemod/plugins
 
 ## Console Commands
 ```bash2_stats```
