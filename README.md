@@ -8,9 +8,9 @@ You can either compile the script your self, the files are listed below and are 
 https://pastebin.com/wLqF9piS
 
 ## Requirements
-* Download [dHooks](https://forums.alliedmods.net/showthread.php?t=180114)
+* [dHooks](https://forums.alliedmods.net/showthread.php?t=180114)
   * [Compiled version](https://github.com/isteinbrook/bash2/blob/master/bash2.smx) uses [2.2.0](http://users.alliedmods.net/~drifter/builds/dhooks/2.2/dhooks-2.2.0-hg126-linux.tar.gz)
-* Download [smlib](https://github.com/splewis/smlib)
+* [smlib](https://github.com/splewis/smlib)
 
 ## Compile
 * Download [sourcemod](https://www.sourcemod.net/downloads.php?branch=stable)
