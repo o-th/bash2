@@ -2,7 +2,7 @@
 Anticheat (from mevs pastebin) for strafe-related cheats. Works with [Shavit's Bhop Timer](https://github.com/shavitush/bhoptimer)
 
 ## Notes
-You can either compile the script your self, the files are listed below and are uploaded above in the addons folder, or download the [compiled version here.](https://github.com/isteinbrook/bash2/blob/master/bash2.smx)
+You can either compile the script your self, the files are listed below and are uploaded above in the addons folder, or download the [compiled version here.](https://github.com/isteinbrook/bash2/blob/master/compiled/bash2.smx)
 
 ## Source
 https://pastebin.com/wLqF9piS
@@ -24,7 +24,7 @@ Linux:
 * [instructions here](https://wiki.alliedmods.net/Compiling_SourceMod_Plugins)
 
 ## Install
-* Drop compiled bash2.smx into addons/sourcemod/plugins
+* Drop the compiled bash2.smx into addons/sourcemod/plugins
 
 ## Console Commands
 ```bash2_stats```
