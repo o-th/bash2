@@ -21,7 +21,7 @@ Windows:
 * Drag [bash2.sp](https://github.com/isteinbrook/bash2/blob/master/bash2.sp) onto addons/sourcemod/scripting/spcomp.exe
 
 Linux:
-* [tut here](https://wiki.alliedmods.net/Compiling_SourceMod_Plugins)
+* [instructions here](https://wiki.alliedmods.net/Compiling_SourceMod_Plugins)
 
 ## Install
 * Drop compiled bash2.smx into addons/sourcemod/plugins
